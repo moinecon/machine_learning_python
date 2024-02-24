@@ -1,2 +1,2 @@
 # Python
- Regression with Python
+ Regression with python
