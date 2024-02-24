@@ -1,2 +1,2 @@
 # Python
- Regression with python
+ Machine learning with python
